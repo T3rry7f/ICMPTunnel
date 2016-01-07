@@ -9,4 +9,4 @@ python IcmpTunnel_S.py
 
 
 Client :
-python IcmpTunnel_S.py {serverIP} {needConnectIP} {needConnectPort}
+python IcmpTunnel_C.py {serverIP} {needConnectIP} {needConnectPort}
