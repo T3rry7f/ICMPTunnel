@@ -2,7 +2,7 @@
 Create a reverse icmp tunnel to forward tcp traffic,this maybe useful in some lan env
 Usage:
 
-Server ://   must be in a public network
+Server :
 echo 1> /proc/sys/net/ipv4/icmp_echo_ignore_all
 python IcmpTunnel_S.py
 
